@@ -178,10 +178,10 @@ This project demonstrates practical implementation of:
 Kanda Kumaran  
 M.Tech (Information Security)
 ---
-Abhishek 
+Abhishek  
 M.Tech (Information Security)
 ---
-Shruti
+Shruti  
 M.Tech (Information Security)
 ---
 
